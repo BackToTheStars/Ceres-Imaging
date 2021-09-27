@@ -1,0 +1,7 @@
+.file-name:hover button {
+  opacity: 1;
+}
+.file-name button {
+  opacity: 0;
+  transition: 0.3s;
+}
